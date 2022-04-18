@@ -1,0 +1,8 @@
+flask==1.0.2
+Flask-SocketIO==3.0.0
+python-socketio==4.5.1
+python-engineio==3.12.1
+web-socket-client==1.2.3
+urllib3==1.26.5
+pyshark==0.4.5
+requests==2.25.1
