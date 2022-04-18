@@ -1,5 +1,5 @@
 # Location_based_access_control
-'''
+```
 Server
 	Install Raspbian
 	Update and Upgrade OS
@@ -82,4 +82,4 @@ Resources
 	https://opennds.readthedocs.io/en/stable/compile.html (installing opennds)
 	https://trevphil.com/posts/captive-portal (FAS captive portal setup) 
 	
-'''
+```
